@@ -1,0 +1,18 @@
+body{
+	background-image: url("space.png");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+	border-width:10px;
+	background-color: white; 
+	border-style:ridge;
+}
+
+h1,h4
+{
+	color: white !important;
+	font-family:'Open Sans' !important;
+}
+@font-face { font-family: 'Open Sans'; src: url('Lunar.otf') format('truetype'); }
